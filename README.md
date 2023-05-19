@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've a huge interest in cybersecurity,<br>I'm currently learning Python,<br>I've learned C, C++, Java, Javascript<br>I'm keen to learn new things<br>That's it for now!
+I have a great interest in cybersecurity.<br>I am currently learning Python.<br>I have studied C, C++, Java, and JavaScript.<br>I am eager to acquire new knowledge.<br>That's all for now!
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ I've a huge interest in cybersecurity,<br>I'm currently learning Python,<br>I've
 ---
 [![](https://visitcount.itsvg.in/api?id=yourstruelyyash&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
