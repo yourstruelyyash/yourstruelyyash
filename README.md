@@ -1,5 +1,5 @@
-# 💫 About Me:
-I have a great interest in cybersecurity.<br>I am currently learning Python.<br>I have studied HTML, C++, and Python, PHP.<br>I am eager to acquire new knowledge.<br>That's all for now!
+# About Me:
+I have a great interest in cybersecurity.<br>I am currently learning Python.<br>I have studied HTML, C++, and Bash, PHP.<br>I am eager to acquire new knowledge.<br>That's all about me!
 
 
 ## 🌐 Socials:
